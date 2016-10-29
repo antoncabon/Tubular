@@ -3,3 +3,4 @@ $('document').ready(function() {
 	$('#wrapper').tubular(options);
 	// yLeQAS5xSAg sakitnya tuh disiniiii
 	// 1opp3AiTGdU Goyang dumang mannngggggg
+});
